@@ -5,9 +5,9 @@ I don't have a lot experience with github, this is why sidoh (the developer of t
 
 ## Photos
 
-![PCB](./images/pcb.jpeg)
+<img src="./images/pcb.jpeg" alt="PCB" width="400">
 
-![Case](./images/case.jpeg)
+<img src="./images/case.jpeg" alt="Case" width="400">
 
 ## Case
 
